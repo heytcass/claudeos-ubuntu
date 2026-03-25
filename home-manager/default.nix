@@ -9,6 +9,7 @@
     ./apps/zathura.nix
     ./git.nix
     ./theme.nix
+    ./monitor.nix
   ];
 
   home = {
